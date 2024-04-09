@@ -56,15 +56,15 @@ global.ownernumber = process.env.SUDO || '8281471381' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'r1n24n___4k' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "https://chat.whatsapp.com/KCSdRJUr8xp6hg8GO05WcU"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/KCSdRJUr8xp6hg8GO05WcU"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "r1n24n___4k"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://chat.whatsapp.com/KCSdRJUr8xp6hg8GO05WcU' //script link
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "r1n24n___4k"
 //________________________________________________________________________________________________________
@@ -81,9 +81,9 @@ global.hituet = 0
 
 //bot sett
 //________________________________________________________________________________________________________
-global.typemenu = process.env.MENU_DESIGN || 'v4' // menu type 'v1' => 'v8'
+global.typemenu = process.env.MENU_DESIGN || 'v5' // menu type 'v1' => 'v8'
 //________________________________________________________________________________________________________
-global.typereply = process.env.REPLY_TYPE || 'v2' // reply type 'v1' => 'v3'
+global.typereply = process.env.REPLY_TYPE || 'v3' // reply type 'v1' => 'v3'
 //________________________________________________________________________________________________________
 global.autoblocknumber = process.env.AUTO_BAN || '212' //set autoblock country code
 //________________________________________________________________________________________________________
